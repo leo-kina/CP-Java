@@ -1,8 +1,15 @@
-public class AutoEscola extends Aluno{
+public class AutoEscola {
     Aluno aluno1;
     Aluno aluno2;
     Aluno aluno3;
     Aluno aluno4;
+
+    public AutoEscola(Aluno a1, Aluno a2, Aluno a3, Aluno a4) {
+        this.aluno1 = a1;
+        this.aluno2 = a2;
+        this.aluno3 = a3;
+        this.aluno4 = a4;
+    }
 
     public void exibirResumo() {
         Aluno[] lista = {aluno1, aluno2, aluno3, aluno4};
