@@ -120,4 +120,4 @@ Uma abordagem mais escalável seria transformar `Veiculo` em uma **classe abstra
 | Leonardo Eiji Kina | 562784 |
 | Nicholas Braga de Souza | 561733 |
 | Tomé Rossi Giani | 562422 |
-| Vitor Ramos | 562784 |
+| Vitor Ramos | 561958 |
